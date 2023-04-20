@@ -1,0 +1,26 @@
+{
+  "name": "git_api",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishnhhh/GIT_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishnhhh/GIT_API/issues"
+  },
+  "homepage": "https://github.com/ashishnhhh/GIT_API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "json-server": "^0.17.3",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22"
+  }
+}
