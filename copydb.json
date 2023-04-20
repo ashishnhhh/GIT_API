@@ -1,0 +1,57 @@
+
+    [
+        {
+            
+            "District" : "Kolhapur",
+            "CollegeName" : "Shivaji Maharaj College",
+            "CollegeCodeID": "A121"
+        },
+        {
+            
+            "District" : "Ahmednagar",
+            "CollegeName" : "Maharaja Jivajirao Shinde Mahavidyalaya, Shrigonda",
+            "CollegeCodeID":"A2"
+        },
+        {
+            
+            "District" : "Akola",
+            "CollegeName" : "Shri Dhabekar Kala Mahavidyalay, Khadki, Akola",
+            "CollegeCodeID":"A194"
+        },
+        {
+            
+            "District" : "Beed",
+            "CollegeName" : "Vaishnavi Mahavidyalaya,Wadwani",
+            "CollegeCodeID":"A1081"
+        },
+        {
+            
+            "District" : "Buldhana",
+            "CollegeName" : "Arts & Sci. Mahila Mahavidyalaya Mehkar Dist. Buldana",
+            "CollegeCodeID":"A1128"
+        },
+        {
+            
+            "District" : "Mumbai",
+            "CollegeName" : "G.N.KHALSA COLLEGE OF ARTS, SCIENCE & COMMERE",
+            "CollegeCodeID":"A298"
+        },
+        {
+            
+            "District" : "Nagpur",
+            "CollegeName" : "Womens College of Commerce & Arts Nandanvan, Nagpur",
+            "CollegeCodeID":"A405"
+        },
+        {
+            
+            "District" : "Pune",
+            "CollegeName" : "ILS Law College",
+            "CollegeCodeID":"A691"
+        },
+        {
+            
+            "District" : "Raigad",
+            "CollegeName" : "VEER WAJEKAR A.S.C. COLLEGE PHUNDE",
+            "CollegeCodeID":"A725"
+        }
+]

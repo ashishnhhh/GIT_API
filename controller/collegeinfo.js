@@ -1,5 +1,10 @@
+const college = require("../model/collegeinfo");
+
 const getcollegeinfo = async(req,res) => {
-    res.status(200).json({msg:"i am al college info"});
+
+    const alldata = await college.find({})
+
+    res.status(200).json({alldata});
 
 };
 
